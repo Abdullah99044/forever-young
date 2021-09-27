@@ -1,6 +1,4 @@
-adj = ["red", "big", "tasty"]
-fruits = ["apple", "banana", "cherry"]
-
-for x in adj:
-  for y in fruits:
-    print(x, y)
+i = 1
+while i <+ 10 :
+  i = i + 1
+  print(i)
